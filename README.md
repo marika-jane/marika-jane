@@ -1,5 +1,5 @@
 
-  #### Kia ora 👋
+  ### Kia ora, I'm Marika 👋
 
 I am a fullstack web developer looking for work.  
 
