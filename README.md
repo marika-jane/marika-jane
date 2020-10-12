@@ -1,4 +1,8 @@
-### Hi there 👋
+### Kia ora 👋
+
+I am a full stack web developer looking for work.
+
+You can find me on linkedin [here] (https://www.linkedin.com/in/marika-fiolitakis/)
 
 <!--
 **marika-jane/marika-jane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
