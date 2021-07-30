@@ -1,10 +1,6 @@
 
   ### Kia ora, I'm Marika 👋
 
-I am a fullstack web developer.  
-
-You can find me on linkedin [here](https://www.linkedin.com/in/marika-fiolitakis/).
-
 
 
 <!--
